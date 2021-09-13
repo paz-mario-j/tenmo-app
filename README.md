@@ -13,4 +13,5 @@ This is TEnmo Bucks a money transfer service with server-side functionality.
 * Unit Testing and Integration Testing through IntelliJ IDEA
 
 ## Visuals
-![screenshot](Capture2.PNG)
+![Capture2](https://user-images.githubusercontent.com/86253070/133158641-178ce3a2-d662-46f3-9069-ed88fa4e31d9.PNG)
+
